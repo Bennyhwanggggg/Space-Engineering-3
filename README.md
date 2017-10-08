@@ -1,7 +1,7 @@
 # SpaceEngineering
 Space Engineering Course Work
 
-Part 1 - Satellite Simulation Using TLE Data and Relation Between Orbital Properties and Mission
+Part 1.1 - Satellite Simulation Using TLE Data and Relation Between Orbital Properties and Mission
 
 Introduction
 
@@ -84,7 +84,7 @@ position in ECEF coordinates. This is simply executed by the eci2ecef function i
 utilizes the transfer matrix between the two coordinates systems.
 
 
-Part 2 - Orbital Simulation with Perturbation
+Part 1.2 - Orbital Simulation with Perturbation
 
 Introduction
 
@@ -144,7 +144,7 @@ with these four variables found, we can find the equinoctial elements of the nex
 By repeating this in loops, we can find the equinoctial elements of each time steps. We then convert
 them back to ECI position vectors for plotting.
 
-Part 3 - Finding the Position of Satellite in Orbit
+Part 1.3 - Finding the Position of Satellite in Orbit
 
 Introduction
 
