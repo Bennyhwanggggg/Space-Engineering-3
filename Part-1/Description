@@ -1,3 +1,6 @@
 Part 1
 Includes: Orbital simulation with and without perturbation using TLE data
           Finding the position of satellite in an orbit
+
+Download the files and keep the folder names.
+Run mainQ1.m on Matlab (code is written using v15b)
